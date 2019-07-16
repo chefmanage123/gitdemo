@@ -1,0 +1,4 @@
+welcome to the github repository
+github account is created successfully
+pwd
+hostname
