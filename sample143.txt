@@ -2,3 +2,4 @@ welcome to the github repository
 github account is created successfull
 pwd
 hostname
+welcome to email notifications send to the assigne
